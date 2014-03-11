@@ -9,6 +9,7 @@
         <title>Mark & Associates</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width">
+        <link rel="shortcut icon" href="favicon.png" type="image/png" />
         <link rel="stylesheet" href="css/bootstrap.css">
         <link rel="stylesheet" href="js/bxslider/jquery.bxslider.css">
         <link rel="stylesheet" href="css/main.css">
